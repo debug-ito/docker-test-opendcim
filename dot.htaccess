@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "OpenDCIM"
+AuthUserFile /home/opendcim/htpasswd
+Require user opendcim
